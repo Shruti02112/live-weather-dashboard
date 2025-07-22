@@ -4,10 +4,9 @@ A real-time weather and air quality dashboard built with **Streamlit**. Get live
 ## 🚀 Features
 
 - 📍 Auto-detects your city using IP, or search for any city manually
+- 🌡 Current weather: condition, wind, humidity, sunrise & sunset
 - 📅 5-day forecast with temperature trends
 - 📊 AQI index with color-coded pie chart
-- 🌡 Current weather: condition, wind, humidity, sunrise & sunset
-- 📅 5-day forecast line chart
 - 🧱 Two-column block-style layout with consistent fonts
 - 🎨 Clean UI with spacing, icons, and intuitive formatting
 
