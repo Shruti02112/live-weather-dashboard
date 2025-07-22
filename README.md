@@ -1,10 +1,10 @@
 # 🌦 Live Weather Dashboard
-Live Weather Dashboard 🌦 — A real-time weather and air quality monitoring app built with Streamlit. Includes temperature, humidity, sunrise/sunset, AQI index, and 5-day forecast with interactive charts. 
-
+A real-time weather and air quality dashboard built with **Streamlit**. Get live updates for **any city** worldwide — including temperature, humidity, wind, sunrise/sunset, and Air Quality Index (AQI) 
 
 ## 🚀 Features
 
-- 📍 Auto-detects location via IP or lets you search manually
+- 📍 Auto-detects your city using IP, or search for any city manually
+- 📅 5-day forecast with temperature trends
 - 📊 AQI index with color-coded pie chart
 - 🌡 Current weather: condition, wind, humidity, sunrise & sunset
 - 📅 5-day forecast line chart
