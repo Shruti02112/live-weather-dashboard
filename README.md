@@ -1,15 +1,6 @@
 # 🌦 Live Weather Dashboard
-Live Weather Dashboard 🌦 — A real-time weather and air quality monitoring app built with Streamlit. Includes temperature, humidity, sunrise/sunset, AQI index, and 5-day forecast with interactive charts.
+Live Weather Dashboard 🌦 — A real-time weather and air quality monitoring app built with Streamlit. Includes temperature, humidity, sunrise/sunset, AQI index, and 5-day forecast with interactive charts. 
 
-
-🔗 **Live App:** [https://yourusername-live-weather-dashboard.streamlit.app](https://yourusername-live-weather-dashboard.streamlit.app)  
-
-
-<p align="center">
-  <img src="screenshot.png" alt="Live Weather Dashboard Screenshot" width="700"/>
-</p>
-
----
 
 ## 🚀 Features
 
@@ -20,7 +11,7 @@ Live Weather Dashboard 🌦 — A real-time weather and air quality monitoring a
 - 🧱 Two-column block-style layout with consistent fonts
 - 🎨 Clean UI with spacing, icons, and intuitive formatting
 
----
+
 
 ## 🔧 Tech Stack
 
@@ -29,5 +20,5 @@ Live Weather Dashboard 🌦 — A real-time weather and air quality monitoring a
 - **Maps & Location**: Geocoder (IP-based)
 - **Charts**: Plotly
 
----
+
 
