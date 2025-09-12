@@ -13,7 +13,7 @@ AIR_QUALITY_URL = "https://api.openweathermap.org/data/2.5/air_pollution"
 st.set_page_config(page_title="Weather Dashboard", layout="wide")
 
 # --- TITLE ---
-st.markdown("<h1 style='text-align: center;'>🌍 Live Weather Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>🌍 ClimaTrack: Real-Time Weather & AQI Dashboard</h1>", unsafe_allow_html=True)
 st.markdown("<div style='margin-top: 30px;'></div>", unsafe_allow_html=True)
 
 # --- AUTO LOCATION ---
@@ -148,3 +148,4 @@ st.markdown("<div style='margin-top: 60px;'></div>", unsafe_allow_html=True)
 # -- Footer --
 st.markdown("---")
 st.caption("Weather data provided by OpenWeatherMap • Dashboard built with Streamlit")
+
