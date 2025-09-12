@@ -1,4 +1,4 @@
-# 🌦 Live Weather Dashboard
+# ClimaTrack: Real-Time Weather & AQI Dashboard
 A real-time weather and air quality dashboard built with **Streamlit**. Get live updates for **any city** worldwide — including temperature, humidity, wind, sunrise/sunset, and Air Quality Index (AQI) 
 
 ## 🚀 Features
